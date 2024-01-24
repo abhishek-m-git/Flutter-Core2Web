@@ -4,7 +4,8 @@ import 'assignment2.dart';
 import 'assignment3.dart';
 import 'insta2.dart';
 import 'netflix.dart';
-import 'insta.dart';
+import 'palindrome.dart';
+
 void main() {
   runApp(const MyApp());
 }
